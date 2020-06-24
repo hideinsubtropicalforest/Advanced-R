@@ -43,8 +43,8 @@
 努力使行的长度在可视范围内，适当换行
 
 >   COMMAND<-paste("vp",inx,"<-viewport(x=",(inx-1)%%fcol*(1/fcol),",y="
-> ​                 ,1-floor((inx-1)/fcol)/frow,",width=",1/fcol
-> ​                 ,",height=",1/frow,",just=c('left', 'top'))",sep="")
+>                   ,1-floor((inx-1)/fcol)/frow,",width=",1/fcol
+>                   ,",height=",1/frow,",just=c('left', 'top'))",sep="")
 
 赋值采用 <- 而不是 =
 
