@@ -37,7 +37,9 @@
 大括号另起一行
 
 >xlibrary <- function(fun){
->  fun_name <- as.character(substitute(fun))
+>
+>​    fun_name <- as.character(substitute(fun))
+>
 >}
 
 赋值采用 <- 而不是 =
@@ -45,8 +47,7 @@
 > x <- 5
 
 努力使行的长度在可视范围内，适当换行
+
 适当注释代码，在需要解释时注释
-
-
 
 此部分内容参考了hadley的《高级R语言编程指南》
