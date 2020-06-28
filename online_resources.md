@@ -12,9 +12,9 @@
 
 [cran task views](<https://cran.r-project.org/web/views/>)- tasks related to a certain topic, e.g. hydrology, spatial data
 
-* [hydrology](<https://cran.r-project.org/web/views/Hydrology.html) 
-* [spatial]()
-* [machine learning]()
+* [hydrology](<https://cran.r-project.org/web/views/Hydrology.html>) 
+* [spatial](https://cran.r-project.org/web/views/Spatial.html)
+* [machine learning](https://cran.r-project.org/web/views/MachineLearning.html)
 
 [Keyboard-Shortcuts](<https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts>) or click Shift+Alt+K in RStudio
 
