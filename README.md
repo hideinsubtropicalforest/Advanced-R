@@ -54,27 +54,35 @@ A typical workflow and packages for hydrology study
 
 ##### 指导书籍
 
-- 《高级R语言编程指南》  -- R语言进阶必备，提升效率
+建议带着具体的数据处理问题来学习和掌握R，首先参考下列英文原著，再以google和stackoverflow为补充手段
 
-- 《统计建模与R软件》 -- 讲述使用R进行统计分析的背后的统计学原理
-- 《R语言实战》 -- 一本全面地讲述R语言进行数据分析和可视化的书籍
-- 《ggplot2: 数据分析和图形艺术》 -- 一个强大且在不断更新的绘图包
+* R for Data Science - Import, Tidy, Transform, Visualize, and Model Data - 数据科学的工作流
+* ggplot2 - Elegant Graphics for Data Analysis - ggplot的详细描述，在详细作图时可参考
+* Advanced R - 总结了一些基础和高级编程的一些知识
+* Geocomputation with R - 待探索，地理计算和绘图
+* Lattice - Multivariate Data Visualization with R - 待探索
+* R packages - 创建package时可参考
+
+中文书籍提供 - 汉化总是丢失了一些信息
+
+* 高级R语言编程指南 - Advanced R的中文版
+* 统计建模与R软件 - 统计学原理和实现讲得较好
+* R语言实战 - 包含基本内容，但徒有方法，不建议但可入门
 
 可在[百度云](<https://pan.baidu.com/s/1Y-_mYJZSwTh6YKQ7t8hMvA>)下载  password  b1kh
 
-欢迎推荐其他书籍 
+也欢迎推荐其他书籍 
 
 ##### 其他的语言和工具
 
 语言 - 兼顾灵活性和效率原则
 
-- C++
+- C++ - 后续探索rcpp
   - 开发效率低，性能强
   - 作为补充手段解决性能问题，并适用于高复杂度的建模
-- Python
-  - 视乎取决于对ArcGIS工具集的依赖程度
-- Matlab, JavaScript, Fortran, Python
-  - 视乎导师和同学的使用情况
+- Python - 地理计算必备，arcGIS
+- Matlab, JavaScript, Fortran
+  - 视乎实际雪球
 
 工具 - 开源是未来的趋势, 日益增长的社区交流最终服务于科学发展
 
