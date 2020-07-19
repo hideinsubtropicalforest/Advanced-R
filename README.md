@@ -1,5 +1,5 @@
 # Advanced-R
-这是一个关于R语言进阶学习的study group，作为一群水文、遥感等学科方向，处于"入门阶段但是在进阶上遇到瓶颈的同学"的交流合作平台。在这里，大家主要但不限于以R语言作为工具，共同分享统计建模，数据分析以及科研方面的心得，旨在充分利用R语言开源的优势和社区的力量，以助力水文建模与应用工作。我们相信，不同的声音会极大地丰富了我们的视野。因此，在组内畅所欲言即可。
+这是一个关于R语言进阶学习的study group，作为一群水文、遥感等学科方向，处于**入门阶段但是在进阶上遇到瓶颈的同学**的交流合作平台。在这里，大家主要但不限于以R语言作为工具，共同分享统计建模，数据分析以及科研方面的心得，旨在充分利用R语言开源的优势和社区的力量，以助力水文建模与应用工作。我们相信，不同的声音会极大地丰富了我们的视野。因此，在组内畅所欲言即可。
 
 ##### 主要目标和资源
 
@@ -19,9 +19,28 @@
 - 注册Git/Github，作为代码分享渠道，共同贡献代码库
 - 了解markdown语法，这是我们主要的心得或教程的写作工具，类似于博客暂时先在小组内部发布在Github
 
-##### 一个典型的工作流和包
+##### 指导书籍
 
-A typical workflow and packages for hydrology study
+关于R在统计和数据科学的使用上，建议带着**具体的数据处理问题**来学习和掌握R，可优先参考下列**实时更新英文书籍**，再以google和stackoverflow为补充手段
+
+- [R for Data Science](<https://r4ds.had.co.nz/>) - Import, Tidy, Transform, Visualize, and Model Data
+- [ggplot2 - Elegant Graphics for Data Analysis](<https://ggplot2-book.org/>) - ggplot的详细描述，在详细作图时可参考
+- [Advanced R](<https://adv-r.hadley.nz/>) - 总结了一些基础和高级编程的一些知识
+- [Geocomputation with R](<https://geocompr.robinlovelace.net/>) - 地理计算和地图绘图
+- [R packages](<http://r-pkgs.had.co.nz/>) - 创建package时可参考
+- Lattice - Multivariate Data Visualization with R - 待探索
+
+中文书籍提供 - 汉化总是丢失了一些信息
+
+- 高级R语言编程指南 - Advanced R的中文版
+- 统计建模与R软件 - 统计学原理和实现讲得较好
+- R语言实战 - 包含基本内容，但徒有方法，不建议但可入门
+
+纸质版可在[百度云](<https://pan.baidu.com/s/1Y-_mYJZSwTh6YKQ7t8hMvA>)下载，可做笔记但非实时更新  password  b1kh
+
+也欢迎推荐其他书籍 
+
+##### 一个典型的工作流和包
 
 - set up repository  建立代码库
   - remotes, devtools
@@ -45,33 +64,14 @@ A typical workflow and packages for hydrology study
 
 [Slater, L. J., et al. (2019). "Using R in hydrology: a review of recent developments and future directions." Hydrology and Earth System Sciences 23(7): 2939-2963.](<https://www.hydrol-earth-syst-sci.net/23/2939/2019/>)
 
-此外，工作流结构还包含base文件夹，主要是R与操作系统相关的内容，会涉及在R语言中
+![workflow](/image/workflow.png)
+
+此外，工作流结构还包含base和others文件夹，包含如
 
 * basic functions
-
 * parallel computing 
+* crawler
 * etc.
-
-##### 指导书籍
-
-建议带着具体的数据处理问题来学习和掌握R，首先参考下列英文原著，再以google和stackoverflow为补充手段
-
-* R for Data Science - Import, Tidy, Transform, Visualize, and Model Data - 数据科学的工作流
-* ggplot2 - Elegant Graphics for Data Analysis - ggplot的详细描述，在详细作图时可参考
-* Advanced R - 总结了一些基础和高级编程的一些知识
-* Geocomputation with R - 待探索，地理计算和绘图
-* Lattice - Multivariate Data Visualization with R - 待探索
-* R packages - 创建package时可参考
-
-中文书籍提供 - 汉化总是丢失了一些信息
-
-* 高级R语言编程指南 - Advanced R的中文版
-* 统计建模与R软件 - 统计学原理和实现讲得较好
-* R语言实战 - 包含基本内容，但徒有方法，不建议但可入门
-
-可在[百度云](<https://pan.baidu.com/s/1Y-_mYJZSwTh6YKQ7t8hMvA>)下载  password  b1kh
-
-也欢迎推荐其他书籍 
 
 ##### 其他的语言和工具
 
