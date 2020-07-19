@@ -31,9 +31,10 @@ Advanced-R是一个关于R语言进阶的学习小组，作为一群水文、遥
 - [R for Data Science](<https://r4ds.had.co.nz/>) - Import, Tidy, Transform, Visualize, and Model Data
 - [ggplot2 - Elegant Graphics for Data Analysis](<https://ggplot2-book.org/>) - ggplot的详细描述，在详细作图时可参考
 - [Advanced R](<https://adv-r.hadley.nz/>) - 总结了一些基础和高级编程的一些知识
-- [Geocomputation with R](<https://geocompr.robinlovelace.net/>) - 地理计算和地图绘图
+- [Geocomputation with R](<https://geocompr.robinlovelace.net/>) - 地理计算和地图绘制
 - [R packages](<http://r-pkgs.had.co.nz/>) - 创建package时可参考
 - Lattice - Multivariate Data Visualization with R - 待探索
+- Time Series Analysis and Its Applications with R examples
 
 中文书籍提供 - 汉化总是丢失了一些信息
 
