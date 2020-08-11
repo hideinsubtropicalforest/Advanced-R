@@ -33,7 +33,8 @@ Advanced-R是一个关于R语言进阶的学习小组，作为一群水文、遥
 - [Advanced R](<https://adv-r.hadley.nz/>) - 总结了一些基础和高级编程的一些知识
 - [Geocomputation with R](<https://geocompr.robinlovelace.net/>) - 地理计算和地图绘制
 - [R packages](<http://r-pkgs.had.co.nz/>) - 创建package时可参考
-- Lattice - Multivariate Data Visualization with R - 待探索
+- Lattice - Multivariate Data Visualization with R
+- [Mastering Shiny](<https://mastering-shiny.org/>) - 创建shiny web app交互小程序
 - Time Series Analysis and Its Applications with R examples
 
 中文书籍提供 - 汉化总是丢失了一些信息
