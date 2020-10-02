@@ -43,9 +43,11 @@ Advanced-R是一个关于R语言进阶的学习小组，作为一群水文、遥
 - 统计建模与R软件 - 统计学原理和实现讲得较好
 - R语言实战 - 包含基本内容，但徒有方法，不建议但可入门
 
-纸质版可在[百度云](<https://pan.baidu.com/s/1Y-_mYJZSwTh6YKQ7t8hMvA>)下载，可做笔记但非实时更新  password  b1kh
+#### 完全网络资源
+link https://pan.baidu.com/s/1B7ASkAiayCYQDr5MrMJrDg
+password  61qz
 
-也欢迎推荐其他书籍 
+欢迎推荐其他书籍 
 
 ##### 一个典型的工作流和包
 
