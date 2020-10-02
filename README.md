@@ -44,8 +44,8 @@ Advanced-R是一个关于R语言进阶的学习小组，作为一群水文、遥
 - R语言实战 - 包含基本内容，但徒有方法，不建议但可入门
 
 #### 完全网络资源
-link https://pan.baidu.com/s/1B7ASkAiayCYQDr5MrMJrDg
-password  61qz
+link https://pan.baidu.com/s/1hZ-wBD-5lYCHBzUcQjT3Mw 
+password  chn3 
 
 欢迎推荐其他书籍 
 
