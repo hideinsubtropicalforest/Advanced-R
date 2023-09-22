@@ -32,6 +32,7 @@ Advanced-R是一个关于R语言进阶的学习小组，作为一群水文、遥
 - [ggplot2 - Elegant Graphics for Data Analysis](<https://ggplot2-book.org/>) - ggplot的详细描述，在详细作图时可参考
 - [Advanced R](<https://adv-r.hadley.nz/>) - 总结了一些基础和高级编程的一些知识
 - [Geocomputation with R](<https://geocompr.robinlovelace.net/>) - 地理计算和地图绘制
+- [Efficient R programming](<https://csgillespie.github.io/efficientR/index.html>) -高效R编程
 - [R packages](<http://r-pkgs.had.co.nz/>) - 创建package时可参考
 - Lattice - Multivariate Data Visualization with R
 - [Mastering Shiny](<https://mastering-shiny.org/>) - 创建shiny web app交互小程序
